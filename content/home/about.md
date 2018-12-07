@@ -23,7 +23,7 @@ weight = 1
   year = 2017
 
 [[education.courses]]
-  course = "BSc in Statistics"
+  course = "Bachelors in Statistics"
   institution = "University of Delhi"
   year = 2015
  
