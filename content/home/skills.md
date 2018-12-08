@@ -39,10 +39,4 @@ weight = 65
   name = "Python"
   description = "Familiar"
 
-[[feature]]
-  icon = "overleaf"
-  icon_pack = "ai"
-  name = "LaTeX"
-  description = "Experienced"
-
 +++
