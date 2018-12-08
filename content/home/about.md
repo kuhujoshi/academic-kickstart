@@ -30,4 +30,4 @@ weight = 1
  
 +++
 
-I am a research analyst at <a href="http://www.ifpri.org/">IFPRI</a> where I work with <a href="http://www.ifpri.org/profile/avinash-kishore">Dr. Avinash Kishore</a>. I am currently involved in the <a href="https://tarina.tci.cornell.edu/">TARINA project</a> of Cornell University, and an all-India crop variety adoption project funded by the Government of India. I am also studying gender and obesity in India using DHS data.
+I am a research analyst at <a href="http://www.ifpri.org/">IFPRI</a> where I work with <a href="http://www.ifpri.org/profile/avinash-kishore">Dr. Avinash Kishore</a>. I am currently involved in the <a href="https://tarina.tci.cornell.edu/">TARINA project</a> of Cornell University, and an all-India crop variety adoption project funded by the Indian Council of Agricultural Research. I am also studying gender and obesity in India using DHS data.
