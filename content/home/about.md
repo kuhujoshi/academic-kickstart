@@ -13,7 +13,7 @@ weight = 1
     "Microeconometrics",
     "Gender",
     "Education",
-    "Climat Change"
+    "Climate Change"
   ]
 
 # List your qualifications (such as academic degrees).
