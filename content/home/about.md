@@ -19,12 +19,12 @@ weight = 1
 
 [[education.courses]]
   course = "Masters in International Economics"
-  institution = "The Graduate Institute, Geneva"
+  institution = "The Graduate Institute, Geneva, Switzerland"
   year = 2017
 
 [[education.courses]]
   course = "Bachelors in Statistics"
-  institution = "University of Delhi"
+  institution = "University of Delhi, India"
   year = 2015
  
 +++
