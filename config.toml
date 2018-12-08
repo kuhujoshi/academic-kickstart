@@ -65,8 +65,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "kuhu.joshi@cgiar.org"
   address = ""
-  office_hours = """
-  """
+  office_hours = ""
   phone = ""
   skype = ""
   telegram = ""
