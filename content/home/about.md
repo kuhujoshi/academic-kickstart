@@ -10,7 +10,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Micro econometrics",
+    "Microeconometrics",
     "Gender",
     "Education"
   ]
