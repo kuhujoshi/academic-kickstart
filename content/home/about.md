@@ -29,4 +29,4 @@ weight = 1
  
 +++
 
-Kuhu joined IFPRI as a senior research assistant in August 2017. She is currently involved in the TARINA project and a variety adoption survey for the Government of India. Prior to joining IFPRI, she completed her Masters in International Economics from The Graduate Institute of International and Development Studies, Geneva in 2017, and her Bachelors in Statistics from the Delhi University in 2015. During her Masters studies, she focussed on development economics, environmental economics, and microeconometrics. She wrote her dissertation on the impact of drought on human capital in rural India. She has previously worked as a part-time consultant for the Butterflies NGO in 2014, and interned at IFPRI in 2016.
+I am a research analyst at IFPRI where I work with <a href="http://www.ifpri.org/profile/avinash-kishore">Dr. Avinash Kishore</a>. I am currently involved in the <a href="https://tarina.tci.cornell.edu/">TARINA project</a> of Cornell University, and an all-India crop variety adoption project funded by the Government of India. I am also studying gender and obesity in India using DHS data.
