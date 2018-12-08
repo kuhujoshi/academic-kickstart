@@ -33,13 +33,13 @@ date_format = "January 2006"
   * Writing and editing draft papers
   """
 
-<!-- [[experience]]
-  title = ""
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = ""
-  date_end = ""
-  description = """""" -->
+[[experience]]
+  title = "Operations Intern"
+  company = "CARE"
+  company_url = "https://www.care.org/"
+  location = "Geneva, Switzerland"
+  date_start = "2016-11-01"
+  date_end = "2016-12-01"
+  description = """Worked on CARE's humanitarian response monitoring system - contributing to the testing and database construction."""
 
 +++
